@@ -1,0 +1,35 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# JetBrains / WebStorm
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Log files
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node.js dependencies (if used in the future)
+node_modules/
+
+# Local development and build caches
+.cache/
+.parcel-cache/
